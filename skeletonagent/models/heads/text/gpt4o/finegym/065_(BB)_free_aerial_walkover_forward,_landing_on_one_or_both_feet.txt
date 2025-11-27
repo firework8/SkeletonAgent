@@ -1,0 +1,91 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(BB) free aerial walkover forward, landing on one or both feet' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast begins with a dynamic forward step or run, swinging the arms upward to generate momentum, then explosively pushes off the lead leg while the trailing leg drives upward into a high, split-legged backbend, rotating forward over the hands with the torso arched and hips extended, passing through a brief inverted handstand position before the legs snap downward and together, the arms release from the beam, and the body completes the rotation to land upright on one or both feet with controlled balance.
+
+================================================================================
+
+Round 2 Question:
+For the '(BB) free aerial walkover forward, landing on one or both feet' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Remains neutral or slightly tilted back early, aligning with the spine during rotation, then snaps forward late to spot the landing.  
+Hand: Contacts the beam briefly in a backward press with fingers spread, releasing quickly as rotation completes.  
+Arm: Swings upward dynamically at takeoff, then extends overhead during rotation before pulling down sharply to assist the landing.  
+Hip: Drives upward in an open, extended position during rotation, maintaining minimal flexion to emphasize a smooth arch.  
+Leg: Lead leg lifts sharply at takeoff while the trailing leg follows in a split, then both snap together late for a controlled landing.  
+Foot: Lead foot pushes off the beam with a strong plantar flexion, while the trailing foot points toe-first before both land in relevé or flat.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(BB) free aerial walkover forward, landing on one or both feet', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(BB) free aerial walkover forward, landing on one or both feet' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Initiates upward swing early, rotates forward with slight delay compared to right shoulder.  
+7-right shoulder: Drives aggressively upward at takeoff, leads rotation with wider range than left.  
+12-left hip: Extends fully mid-rotation, opens slightly later than right hip for split momentum.  
+13-right hip: Explosively drives upward first, maintains hyperextension longer during arch phase.  
+16-left ankle: Plantarflexes sharply at push-off, then dorsiflexes late for landing control.  
+17-right ankle: Points toe strongly during leg lift, remains rigid until landing absorption.  
+18-mid hip: Sustains forward tilt early, shifts to neutral late to align landing posture.  
+20-mid shoulder: Balances arm asymmetry, stabilizes rotation axis throughout flight.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(BB) free aerial walkover forward, landing on one or both feet' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+This element is distinguished by its explosive forward rotation with asymmetrical shoulder drive, a high-arching split-hip trajectory, delayed leg synchronization, and a controlled upright landing, setting it apart from other walkovers by its dynamic takeoff and precise mid-air posture adjustments.
+
+================================================================================

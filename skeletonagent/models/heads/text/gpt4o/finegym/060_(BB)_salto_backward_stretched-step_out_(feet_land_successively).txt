@@ -1,0 +1,91 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(BB) salto backward stretched-step out (feet land successively)' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast initiates the salto backward stretched by pushing off the beam with both feet, extending the body fully backward in a straight position while rotating backward, then swiftly transitions into a step-out by splitting the legs mid-air with one leg landing first followed by the other, maintaining control and alignment throughout the rotation and landing phases.
+
+================================================================================
+
+Round 2 Question:
+For the '(BB) salto backward stretched-step out (feet land successively)' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Remains neutral or slightly tilted back early to initiate backward rotation, then aligns with the spine mid-flight to maintain straight posture.  
+Hand: Starts on the beam for push-off, then swings upward and backward dynamically to aid rotation before stabilizing for landing.  
+Arm: Extends fully upward during takeoff, then sweeps backward in sync with rotation, staying straight to enhance momentum.  
+Hip: Remains fully extended throughout the salto, avoiding pike or arch, ensuring a stretched position for a clean step-out.  
+Leg: Splits asymmetrically mid-rotation, with one leg driving forward and the other back, distinguishing it from a tucked or piked salto.  
+Foot: Lands successively, with the leading foot touching first, followed by the trailing foot, ensuring controlled balance on the beam.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(BB) salto backward stretched-step out (feet land successively)', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 8, 9, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(BB) salto backward stretched-step out (feet land successively)' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Initiates upward drive early, remains open during rotation to maintain stretched alignment.  
+7-right shoulder: Mirrors left but may delay slightly during step-out to control asymmetrical landing.  
+12-left hip: Extends fully backward at takeoff, stays rigid to prevent pike, then splits forward mid-air.  
+13-right hip: Matches left hip extension but drives backward in step-out, creating split asymmetry.  
+14-left knee: Straightens completely at launch, bends slightly only on landing for absorption.  
+15-right knee: Mirrors left knee but delays bend to allow trailing leg extension in step-out.  
+18-mid hip: Maintains backward rotation axis, remains aligned between hips to prevent arching.  
+20-mid shoulder: Anchors arm swing momentum, stays elevated to counterbalance leg split.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(BB) salto backward stretched-step out (feet land successively)' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+This element is recognized by its fully stretched backward rotation with no pike, followed by an asymmetrical mid-air leg split and successive one-foot-at-a-time landing, requiring rigid hip extension and controlled shoulder-driven momentum throughout.
+
+================================================================================

@@ -1,0 +1,90 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(VT) round-off, flic-flac with 0.5 turn on, stretched salto forward with 0.5 turn off' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast begins with a powerful run-up into a round-off, planting hands sideways while the legs swing over with a 180° turn to rebound backward into a flic-flac, where the hands push off the floor as the hips drive upward and the body arches back, then immediately initiates a 0.5 turn during the pre-flight phase of the salto, rotating forward with a stretched body position before completing the final 0.5 turn off the salto to land facing the opposite direction, maintaining tight alignment throughout each transition.
+
+================================================================================
+
+Round 2 Question:
+For the '(VT) round-off, flic-flac with 0.5 turn on, stretched salto forward with 0.5 turn off' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Tilted slightly back during round-off, snaps forward in flic-flac, then stays neutral with controlled rotation during salto to guide the 0.5 turn.  
+Hand: Plants sideways in round-off, pushes aggressively backward in flic-flac, then remains tight by ears in salto for rotation control.  
+Arm: Drives upward in round-off, swings back dynamically in flic-flac, then extends fully overhead in salto to maintain stretch.  
+Hip: Opens sharply in round-off, hyperextends in flic-flac for rebound, then stays fully extended in salto for forward rotation.  
+Leg: Splits rapidly in round-off, whips powerfully in flic-flac, then remains straight and together in salto for clean twist.  
+Foot: Blocks hard off the floor in round-off, points aggressively during flic-flac whip, then stays taut in salto for controlled landing.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(VT) round-off, flic-flac with 0.5 turn on, stretched salto forward with 0.5 turn off', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(VT) round-off, flic-flac with 0.5 turn on, stretched salto forward with 0.5 turn off' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Drives upward aggressively in round-off, then swings back asymmetrically in flic-flac to generate rotation.  
+7-right shoulder: Mirrors left shoulder but with slight delay in flic-flac to assist the 0.5 turn initiation.  
+12-left hip: Hyperextends sharply in flic-flac for rebound, then stays rigidly extended in salto for forward rotation.  
+13-right hip: Matches left hip but with controlled asymmetry to aid the 0.5 turn on.  
+18-mid hip: Thrusts upward explosively in flic-flac, then maintains tight alignment during salto twist.  
+19-thorax: Rotates early in salto to initiate the 0.5 turn, staying fully stretched throughout.  
+20-mid shoulder: Stabilizes during round-off, then aligns with thorax in salto to control twist timing.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(VT) round-off, flic-flac with 0.5 turn on, stretched salto forward with 0.5 turn off' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+This element is distinguished by the explosive backward flic-flac rebound into an early half-turn initiation, followed by a fully stretched forward salto with a precisely timed half-twist off, requiring sharp hip extension, asymmetrical shoulder drive, and rigid thoracic alignment to control rotation.
+
+================================================================================

@@ -1,0 +1,91 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(FX) 3 turn on one leg, free leg optional below horizontal' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast begins by standing on one leg with the free leg extended forward, then initiates a controlled turn by rotating the supporting leg’s hip inward while the free leg sweeps backward or sideways below horizontal, maintaining a tight core and upright posture as the body smoothly pivots 360 degrees on the ball of the foot, with the free leg either held close or slightly extended for balance, before concluding the rotation and returning to a stable standing position.
+
+================================================================================
+
+Round 2 Question:
+For the '(FX) 3 turn on one leg, free leg optional below horizontal' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Maintains a neutral or slightly lifted position, tracking forward to stabilize balance during rotation, contrasting with turns where the head leads the spin.  
+Hand: Arms typically extend sideways or slightly forward in a controlled, symmetrical position, aiding balance rather than driving rotation like in faster turns.  
+Arm: Remains steady and slightly rounded, providing counterbalance without excessive movement, unlike turns where arms whip forcefully.  
+Hip: Rotates smoothly in line with the supporting leg, staying level and controlled, distinguishing it from turns with pronounced hip tilting.  
+Leg: Free leg swings backward or sideways below horizontal, maintaining a straight or slightly bent line without rising, unlike high-leg turns.  
+Foot: Supporting foot pivots precisely on the ball, with minimal heel lift, ensuring controlled rotation unlike rapid spins where the heel fully lifts.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(FX) 3 turn on one leg, free leg optional below horizontal', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 12, 13, 14, 15, 16, 17, 18, 19
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(FX) 3 turn on one leg, free leg optional below horizontal' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Remains level and stable, slightly retracted to counterbalance the free leg’s movement.  
+7-right shoulder: Mirrors the left, maintaining symmetry with minimal rotation to avoid over-twisting.  
+12-left hip: Rotates smoothly inward as the supporting side, driving the turn while staying aligned.  
+13-right hip: Controls the free leg’s swing, staying below horizontal to prevent excessive lift.  
+14-left knee: Fully extends on the supporting leg, rigid for stability throughout the pivot.  
+15-right knee: Slightly bent or straight in free leg, never exceeding 30° flexion during swing.  
+18-mid hip: Acts as the axis of rotation, remaining centered and upright without lateral tilt.  
+19-thorax: Stays vertically aligned, resisting lean to ensure clean rotational form.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(FX) 3 turn on one leg, free leg optional below horizontal' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+This turn is distinguished by a controlled 360° pivot on a fully extended supporting leg with the free leg held steadily below horizontal, minimal upper-body rotation, and strict hip-shoulder alignment, contrasting with faster spins or turns involving higher leg lifts or pronounced torso movement.
+
+================================================================================

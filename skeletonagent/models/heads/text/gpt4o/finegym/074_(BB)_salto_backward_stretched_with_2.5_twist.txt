@@ -1,0 +1,89 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(BB) salto backward stretched with 2.5 twist' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast initiates the movement by pushing off backward with both legs, simultaneously swinging the arms upward to generate momentum, then quickly tucks the knees to the chest while initiating a backward rotation, transitioning into a stretched position mid-air as the body completes a 2.5 backward somersault with a full twist (first twist initiated early in the rotation, second during the mid-phase, and final half-twist completed just before landing), extending the legs and arms outward for stability, and finally landing upright with controlled flexion in the knees and hips to absorb impact.
+
+================================================================================
+
+Round 2 Question:
+For the '(BB) salto backward stretched with 2.5 twist' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Slightly tilted backward early to initiate rotation, then neutral mid-flight to control twist, sharply turning sideways during each half-twist for precise spotting.  
+Hand: Starts palms-down during push-off, swiftly rotates inward to drive the backward swing, then symmetrically extends outward mid-flight to stabilize the twist.  
+Arm: Sweeps upward and backward in a wide arc for momentum, then abruptly pulls inward to the chest to accelerate rotation before stretching out to control twist alignment.  
+Hip: Drives backward with a powerful extension at takeoff, remains fully extended throughout the salto, and slightly adjusts tilt mid-twist to maintain axis control.  
+Leg: Fully extended at takeoff with a strong push, remains straight during the salto, and slightly splits mid-twist to counterbalance rotational forces before landing.  
+Foot: Points sharply at takeoff for maximum push, stays taut mid-air to maintain line, and flexes slightly before landing to absorb impact while keeping heels aligned.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(BB) salto backward stretched with 2.5 twist', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(BB) salto backward stretched with 2.5 twist' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Drives upward and backward in a wide arc at takeoff, then sharply pulls inward mid-rotation to accelerate twist.  
+7-right shoulder: Mirrors left shoulder but with slight delay in pull to initiate the first half-twist asymmetrically.  
+12-left hip: Extends fully backward at takeoff, maintains rigid alignment mid-air, then tilts slightly rightward to stabilize the 2.5 twist.  
+13-right hip: Extends with left hip but adjusts angle earlier to counterbalance rotational forces during the twist phase.  
+18-mid hip: Remains vertically aligned during salto but shifts laterally mid-twist to prevent axis deviation.  
+20-mid shoulder: Rotates rapidly during early twist, then stabilizes in final half-twist to ensure clean landing alignment.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(BB) salto backward stretched with 2.5 twist' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+This element is distinguished by a powerful backward push into a fully stretched salto with precisely timed asymmetrical shoulder pulls initiating rapid 2.5 twists while maintaining rigid hip alignment and controlled mid-air adjustments to stabilize rotation.
+
+================================================================================

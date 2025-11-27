@@ -1,0 +1,89 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(UB) (swing forward) double salto backward tucked with 1 turn' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast initiates the movement by swinging forward on the uneven bars, generating momentum, then explosively extends the hips and shoulders upward while releasing the bar, immediately tucking the knees tightly to the chest and initiating a backward rotation, simultaneously adding a 1/1 turn by twisting the shoulders and arms mid-air, completing two full backward somersaults with the turn integrated smoothly, before extending the body to prepare for a controlled landing.
+
+================================================================================
+
+Round 2 Question:
+For the '(UB) (swing forward) double salto backward tucked with 1 turn' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Tilted slightly back during the swing, then sharply tucked forward to initiate backward rotation, maintaining midline alignment during the twist.  
+Hand: Releases the bar with a quick backward push, then leads the twist by pulling one hand across the chest while the other stays close.  
+Arm: Drives upward explosively at release, then asymmetrically rotates—one arm tight to the torso while the other crosses to generate the 1/1 turn.  
+Hip: Extends fully during the swing, then snaps into a tight tuck at peak height, driving backward rotation faster than a single salto.  
+Leg: Knees pull aggressively to the chest in the tuck, maintaining symmetry until the twist, where one leg may slightly lead to assist rotation.  
+Foot: Points sharply during the swing, then tucks under the hips, with a slight inward turn of one foot to aid the twisting motion.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(UB) (swing forward) double salto backward tucked with 1 turn', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(UB) (swing forward) double salto backward tucked with 1 turn' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Drives upward explosively at release, then asymmetrically rotates inward to initiate the backward salto.  
+7-right shoulder: Extends fully during swing, then leads the 1/1 turn by pulling across the body mid-flight.  
+12-left hip: Snaps into tight tuck early, enhancing backward rotation speed compared to single saltos.  
+13-right hip: Maintains symmetry initially, then slightly twists inward to assist the mid-air turn.  
+18-mid hip: Acts as the rotation axis, sharply flexing to maximize tuck tightness and rotation rate.  
+19-thorax: Holds rigid alignment early, then twists dynamically to coordinate the backward salto and turn.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(UB) (swing forward) double salto backward tucked with 1 turn' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+This element is distinguished by an explosive upward shoulder drive followed by a rapid backward tuck with a mid-air 1/1 twist, requiring tight hip flexion, asymmetrical shoulder rotation, and precise thorax alignment to execute the double salto while maintaining control.
+
+================================================================================

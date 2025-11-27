@@ -1,0 +1,90 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(FX) arabian double salto tucked' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast initiates the (FX) arabian double salto tucked with a powerful round-off into a back handspring, transitioning into a backward takeoff where the hips drive upward as the knees tuck tightly to the chest, rotating backward in a high, fast double somersault with the arms wrapped around the shins, maintaining a compact position until the legs extend downward for a controlled, upright landing with the chest up and arms stabilizing the finish.
+
+================================================================================
+
+Round 2 Question:
+For the '(FX) arabian double salto tucked' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Slightly tucked early to initiate backward rotation, then neutral during flight to maintain balance, unlike a regular double salto where it stays neutral throughout.  
+Hand: Pushes hard into the floor during the back handspring, then quickly pulls inward to assist tuck rotation, unlike a layout where hands stay open.  
+Arm: Swings upward forcefully in takeoff, then wraps tightly around knees in tuck, creating faster rotation than a pike or layout.  
+Hip: Drives sharply upward in takeoff, then flexes aggressively to tighten tuck, distinguishing it from a straighter Arabian layout.  
+Leg: Knees pull rapidly to chest in mid-air, maintaining symmetrical tuck, unlike a straddle or open pike position.  
+Foot: Points during back handspring, then flexes slightly in tuck for stability, landing with toes first for control, unlike a flat-footed landing in simpler saltos.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(FX) arabian double salto tucked', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 8, 9, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(FX) arabian double salto tucked' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Drives upward forcefully in takeoff, then tucks inward sharply to initiate rotation.  
+7-right shoulder: Mirrors left shoulder but may show slight asymmetry during handspring transition.  
+12-left hip: Flexes aggressively at peak height to tighten tuck, creating faster rotation than layouts.  
+13-right hip: Matches left hip but with delayed flexion in some techniques for controlled entry.  
+18-mid hip: Thrusts upward explosively during takeoff, then curls forward to maximize tuck compression.  
+19-thorax: Stays aligned with hips during rotation but curves forward slightly in mid-air for tight tuck.  
+20-mid shoulder: Initiates backward swing early, then pulls downward to assist rotational momentum.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(FX) arabian double salto tucked' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+The Arabian double salto tucked is distinguished by its explosive backward takeoff with a deep hip thrust, rapid symmetrical tuck of knees to chest for fast rotation, and controlled upright landing, contrasting with layouts or pikes that maintain straighter body positions.
+
+================================================================================

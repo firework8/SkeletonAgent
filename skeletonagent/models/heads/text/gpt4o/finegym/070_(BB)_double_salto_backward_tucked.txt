@@ -1,0 +1,91 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(BB) double salto backward tucked' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast initiates the double salto backward tucked by explosively driving backward off the feet with a powerful push through the legs and hips, simultaneously swinging the arms upward to generate rotation, then quickly tucking the knees tightly to the chest while rounding the back to increase angular momentum, completing the first backward somersault with the body remaining compact, transitioning seamlessly into the second rotation by maintaining the tuck position, and finally beginning to open the body slightly near the end of the second salto to prepare for a controlled landing, all while ensuring precise timing to achieve optimal height, rotation speed, and spatial awareness throughout the movement.
+
+================================================================================
+
+Round 2 Question:
+For the '(BB) double salto backward tucked' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Neutral alignment early, then tucks sharply forward with chin to chest to enhance backward rotation, distinct from single salto where head may stay more upright.  
+Hand: Starts palms-down, swings upward forcefully with arms to initiate backward momentum, then pulls inward to knees in tuck for faster spin.  
+Arm: Extends upward explosively at takeoff, then bends sharply at elbows to grip shins in tight tuck, aiding rapid double rotation unlike a layout.  
+Hip: Drives backward powerfully at takeoff, then flexes aggressively to deepen tuck, crucial for second rotation compared to a piked salto.  
+Leg: Knees bend slightly on takeoff, then snap tightly to chest in mid-air, maintaining symmetrical compression to maximize rotational speed.  
+Foot: Pushes off toes with strong plantar flexion, then points slightly in tuck but stays active to control landing, unlike a looser single salto.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(BB) double salto backward tucked', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 8, 9, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(BB) double salto backward tucked' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Initiates explosive backward drive, extends upward early before tucking inward sharply.  
+7-right shoulder: Mirrors left shoulder, maintains symmetry in swing and tuck for balanced rotation.  
+12-left hip: Drives backward forcefully at takeoff, flexes aggressively to deepen tuck mid-rotation.  
+13-right hip: Matches left hip’s flexion but may show slight asymmetry in power during push-off.  
+14-left knee: Snaps tightly to chest early, maintaining >90° flexion for rapid double rotation.  
+15-right knee: Symmetrical to left knee, but may delay tuck release slightly for landing control.  
+18-mid hip: Flexes sharply at peak height, creating compact tuck distinct from single salto.  
+20-mid shoulder: Rotates backward with spine alignment, stays neutral until late for stability.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(BB) double salto backward tucked' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+The double salto backward tucked is distinguished by an explosive backward drive with symmetrical shoulder-arm swing, an aggressively flexed hip-knee tuck for rapid double rotation, and a tightly compact mid-air posture that contrasts with single saltos or piked layouts.
+
+================================================================================

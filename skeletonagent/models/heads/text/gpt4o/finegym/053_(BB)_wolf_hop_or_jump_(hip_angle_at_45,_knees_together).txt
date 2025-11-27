@@ -1,0 +1,90 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(BB) wolf hop or jump (hip angle at 45, knees together)' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast initiates the wolf hop by bending the hips to a 45-degree angle while keeping the knees together, then explosively extends the hips and legs upward and forward, generating lift as the body momentarily becomes airborne with the legs maintaining the closed-knee position, before landing softly with slightly bent knees to absorb impact, transitioning smoothly back to the starting stance.
+
+================================================================================
+
+Round 2 Question:
+For the '(BB) wolf hop or jump (hip angle at 45, knees together)' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Slightly lifted with neutral alignment, maintaining focus forward to aid balance and control.  
+Hand: Held lightly at sides or slightly forward, palms facing inward, remaining still for stability.  
+Arm: Extends slightly forward or upward during takeoff, aiding momentum without excessive swing.  
+Hip: Flexed at 45° at takeoff, then extends sharply upward to propel the jump, distinguishing it from tuck jumps.  
+Leg: Knees stay tightly together throughout, lifting symmetrically with no rotation, unlike stag jumps.  
+Foot: Points toes during flight, lands softly with slight flexion, emphasizing controlled rebound.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(BB) wolf hop or jump (hip angle at 45, knees together)', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 12, 13, 14, 15, 16, 17, 18
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(BB) wolf hop or jump (hip angle at 45, knees together)' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Slightly forward during takeoff, minimal swing to maintain balance.  
+7-right shoulder: Mirrors left, staying neutral to avoid rotation.  
+12-left hip: Flexed at 45° at takeoff, extends sharply upward for propulsion.  
+13-right hip: Symmetrical to left, ensuring even force in the jump.  
+14-left knee: Stays tightly adducted to right knee, no splay during flight.  
+15-right knee: Pressed firmly against left knee, emphasizing the closed position.  
+18-mid hip: Drives upward explosively, key to the hop’s height and forward motion.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(BB) wolf hop or jump (hip angle at 45, knees together)' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+The wolf hop is distinguished by a synchronized explosive upward drive from a 45° hip flexion with knees tightly pressed together throughout, maintaining neutral shoulder alignment and no rotation, unlike tuck or stag jumps where legs split or rotate.
+
+================================================================================

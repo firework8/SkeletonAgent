@@ -1,0 +1,90 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(FX) switch leap to ring position' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast initiates the (FX) switch leap to ring position by explosively driving the lead leg upward and forward while simultaneously pushing off the floor with the supporting leg, transitioning into a split mid-air with the rear leg extending backward and the lead leg lifting higher to form a ring shape by grasping the foot or ankle, all while maintaining an upright torso and controlled arm movements for balance, before smoothly landing on the lead leg with the rear leg descending gracefully to complete the element.
+
+================================================================================
+
+Round 2 Question:
+For the '(FX) switch leap to ring position' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Remains upright with gaze forward, ensuring balance and control during the split-to-ring transition.  
+Hand: Grips the lead foot in the ring position, pulling it upward and backward to deepen the arch.  
+Arm: Extends dynamically, with the lead-side arm reaching to grasp the foot while the rear arm sweeps backward for counterbalance.  
+Hip: Rotates slightly forward to open the lead leg into the ring while maintaining a square alignment in the split.  
+Leg: Lead leg lifts sharply into a high ring position while the rear leg extends backward in a controlled split.  
+Foot: Lead foot flexes as it’s pulled into the ring, while the rear foot points sharply to emphasize split extension.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(FX) switch leap to ring position', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(FX) switch leap to ring position' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Initiates upward drive early, rotating slightly forward as lead arm reaches for foot.  
+7-right shoulder: Sweeps backward dynamically to counterbalance the ring position, staying open.  
+12-left hip: Drives upward in takeoff, then opens sharply to enable lead-leg ring formation.  
+13-right hip: Extends backward with controlled split timing, maintaining square alignment.  
+14-left knee: Flexes briefly before explosive extension into leap, then bends sharply for ring grip.  
+16-left ankle: Dorsiflexes at takeoff, then points aggressively as foot is pulled into ring.  
+17-right ankle: Maintains pointed extension throughout, emphasizing split height and stability.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(FX) switch leap to ring position' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+The switch leap transitions sharply into a ring position by driving the lead leg upward with a deep backward arch while the rear leg maintains a controlled split, distinguished by the dynamic arm reach to grip the foot and the forward hip rotation that creates a pronounced ring shape.
+
+================================================================================

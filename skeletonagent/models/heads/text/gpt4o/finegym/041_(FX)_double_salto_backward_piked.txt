@@ -1,0 +1,90 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(FX) double salto backward piked' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast initiates the (FX) double salto backward piked by forcefully swinging the arms upward and backward while pushing off the feet, generating backward rotation as the hips rise and the body tucks slightly before quickly extending into a piked position with legs straight and torso bent at the hips, maintaining tight form throughout the first salto, then smoothly transitioning into the second salto by slightly re-tucking to increase rotation speed before re-piking, all while keeping the arms close to the body for momentum, and finally preparing for landing by opening the pike slightly to spot the ground and absorb impact with the feet.
+
+================================================================================
+
+Round 2 Question:
+For the '(FX) double salto backward piked' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Tilted slightly back at takeoff to spot backward rotation, then neutral in pike to maintain alignment, distinguishing it from tucked saltos where the head tucks forward.  
+Hand: Starts palms-up in backward swing, then closes tightly near hips in pike to minimize drag, unlike open-hand layouts.  
+Arm: Drives upward and backward forcefully at takeoff, then pulls sharply into sides during pike to accelerate rotation, differing from straight-arm layouts.  
+Hip: Rapidly bends to 90° in pike after takeoff, maintaining a sharp angle throughout both saltos, unlike tucked or arched variations.  
+Leg: Extends fully in pike with toes pointed, staying straight and symmetrical, contrasting with tucked knees or straddled legs.  
+Foot: Pushes explosively off the floor at takeoff, then remains pointed and rigid in pike, aiding rotation control compared to loose-footed landings.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(FX) double salto backward piked', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 8, 9, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(FX) double salto backward piked' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Drives sharply upward and backward at takeoff, then pulls inward during pike to tighten rotation.  
+7-right shoulder: Mirrors left shoulder but with slight delay to ensure symmetrical backward thrust.  
+12-left hip: Bends rapidly to 90° in pike, maintaining rigidity while rotating backward.  
+13-right hip: Matches left hip angle precisely to avoid twisting in mid-air.  
+18-mid hip: Acts as pivot point, staying elevated and stable throughout both saltos.  
+19-thorax: Initiates backward lean early, then folds sharply forward in pike for maximum rotation speed.  
+20-mid shoulder: Anchors arm momentum, staying aligned with thorax to prevent tilt.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(FX) double salto backward piked' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+The backward piked double salto is distinguished by a sharp 90° hip bend immediately after takeoff, rigid straight legs in rotation, and a forceful backward arm drive followed by tight inward pull, creating faster rotation than layouts while maintaining a clean pike posture unlike tucked variations.
+
+================================================================================
