@@ -1,0 +1,155 @@
+drink
+eat snacks
+brush hair
+drop something
+pick up something
+throw away something
+sit down
+stand up
+applaud
+read
+write
+put on a coat
+take off a coat
+put on glasses
+take off glasses
+put on a hat
+take off a hat
+throw away a hat
+cheer
+wave hands
+kick something
+reach into pockets
+jump on single leg
+jump on two legs
+make a phone call
+play with cell phones
+point somewhere
+look at the watch
+rub hands
+bow
+shake head
+salute
+cross palms together
+cross arms in front to say no
+wear headphones
+take off headphones
+make a shh sign
+touch the hair
+thumb up
+thumb down
+make an OK sign
+make a victory sign
+punch with fists
+figure snap
+open the bottle
+smell
+squat
+apply cream to face
+apply cream to hands
+grasp a bag
+put down a bag
+put something into a bag
+take something out of a bag
+open a box
+move a box
+put up hands
+put hands on hips
+wrap arms around
+shake arms
+step on the spot walk
+kick aside
+kick backward
+cough
+sneeze
+yawn
+blow nose
+stagger
+headache
+chest discomfort
+backache
+neck-ache
+vomit
+use a fan
+stretch body
+punching someone
+kicking someone
+pushing someone
+slap someone on the back
+point someone
+hug
+give something to someone
+steal something from other's pocket
+rob something from someone
+shake hands
+walk toward someone
+walk away from someone
+hit someone with something
+threat some with a knife
+bump into someone
+walk side by side
+high five
+drink a toast
+move something with someone
+take a phone for someone
+stalk someone
+whisper in someone's ear
+exchange something with someone
+lend an arm to support someone
+rock-paper-scissors
+hover
+land
+land at designated locations
+move forward
+move backward
+move left
+move right
+ascend
+descend
+accelerate
+decelerate
+come over here
+stay where you are
+rear right turn
+rear left turn
+abandon landing
+all clear
+not clear
+have command
+follow me
+turn left
+turn right
+throw litter
+dig a hole
+mow
+set on fire
+smoke
+cut the tree
+fishing
+pick a lock
+pollute walls
+hold someone hostage
+threat someone with a gun
+wave a goodbye
+chase someone
+comfort someone
+drag someone
+sweep the floor
+mop the floor
+bounce the ball
+shoot at the basket
+swing the racket
+leg pressing
+escape (to survive)
+call for help
+wear a mask
+take off a mask
+bend arms around someone's shoulder
+run
+stab someone with a knife
+throw a frisbee
+carry a carrying pole
+use a lever to lift something
+walk
+open an umbrella
+close an umbrella
