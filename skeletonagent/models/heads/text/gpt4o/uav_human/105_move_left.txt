@@ -1,0 +1,82 @@
+
+Round 1 Question:
+Describe the movement process of the human body performing the 'move left' action in a sentence.
+Strictly follow these rules:
+1. No lists, bullet points, or dashes
+2. No line breaks
+3. Keep descriptions brief
+4. Start directly with the description
+
+Round 1 Answer:
+The human body shifts weight to the right foot, engages the left leg to step sideways to the left, then adjusts balance by bringing the right foot closer to maintain stability.
+
+================================================================================
+
+Round 2 Question:
+Describe the following body parts actions in short when 'move left': head, hand, arm, hip, leg, foot.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Keep descriptions brief
+
+Round 2 Answer:
+Head: Turns slightly left to look in the direction of movement.  
+Hand: May swing naturally or stay relaxed at the sides.  
+Arm: Left arm swings forward while the right arm swings back for balance.  
+Hip: Shifts leftward to initiate movement and maintain balance.  
+Leg: Left leg steps sideways while the right leg pushes off.  
+Foot: Left foot lands first, followed by the right foot adjusting position.
+
+================================================================================
+
+Round 3 Question:
+The human body can be further represented as 17 skeleton joints.
+The labels of the joints are: 1-nose, 2-right shoulder, 3-right elbow, 4-right wrist, 5-left shoulder, 6-left elbow, 7-left wrist, 8-right hip, 9-right knee, 10-right ankle, 11-left hip, 12-left knee, 13-left ankle, 14-right eye, 15-left eye, 16-right ear, 17-left ear.
+Based on the movement process of the 'move left' action, please point out all joints that are critical for the recognition of this action, including both left and right sides where applicable. 
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+
+================================================================================
+
+Round 4 Question:
+For all the critical joints identified in the previous answer, describe their movement details in short.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One joint per line, no blank lines
+3. List in numerical order (1-17)
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important
+6. Keep descriptions brief
+
+Round 4 Answer:
+2-right shoulder: Rotates slightly backward as left arm swings.  
+5-left shoulder: Moves forward to initiate the left step.  
+8-right hip: Shifts leftward to transfer weight for balance.  
+11-left hip: Drives the left leg sideways during stepping.  
+12-left knee: Bends slightly to lift and move the left foot.  
+13-left ankle: Flexes to stabilize the landing of the left foot.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize the key features that recognize the 'move left' action in one sentence.
+Strictly follow these rules:
+1. No bullet points or dashes
+2. No line breaks
+3. No joint labels
+4. Keep it concise
+5. Start directly with the description
+
+Round 5 Answer:
+The 'move left' action is recognized by the left shoulder and hip driving a sideways step, the right shoulder and hip counterbalancing, and the left knee and ankle flexing for movement and stability.
+
+================================================================================
