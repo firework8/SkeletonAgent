@@ -1,0 +1,80 @@
+
+Round 1 Question:
+Describe the movement process of the human body performing the 'squat' action in a sentence.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The human body bends at the knees and hips, lowering the torso while keeping the back straight, then rises back to the starting position by extending the knees and hips.
+
+================================================================================
+
+Round 2 Question:
+Describe the following body parts actions in short when 'squat': head, hand, arm, hip, leg, foot.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Descriptions must be brief, specific, and focused on motion
+
+Round 2 Answer:
+Head: Stays neutral with gaze forward or slightly upward.  
+Hand: Typically rests at sides, holds weights, or extends forward for balance.  
+Arm: Remains straight if relaxed or bends when holding weights.  
+Hip: Hinges backward while descending and forward while ascending.  
+Leg: Bends at knees to lower body, then extends to stand.  
+Foot: Stays flat on the ground, maintaining even weight distribution.
+
+================================================================================
+
+Round 3 Question:
+The human body can be further represented as 20 skeleton joints:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the movement process of the 'squat' action, please point out all joints that are critical for distinguishing this action from similar ones.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+12, 13, 14, 15, 16, 17, 18, 19
+
+================================================================================
+
+Round 4 Question:
+For all the critical joints listed above, describe their movement details in short.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One joint per line, no blank lines
+3. List joints in increasing numerical order
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important
+6. Keep it brief but informative
+
+Round 4 Answer:
+12-left hip: Hinges backward during descent, forward during ascent.  
+13-right hip: Mirrors left hip, moving backward then forward.  
+14-left knee: Bends to lower body, extends to stand.  
+15-right knee: Bends and extends in sync with left knee.  
+18-mid hip: Acts as central hinge, shifting downward then upward.  
+19-thorax: Maintains upright alignment or slight forward lean.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the 'squat' action can be recognized by key joint movements in one concise sentence.
+Strictly follow these rules:
+1. No lists, line breaks, or joint numbers
+2. Focus on the overall motion signature
+3. Start directly with the description without introduction phrases
+4. Must clearly reflect what makes this action unique or subtle
+
+Round 5 Answer:
+The squat is recognized by synchronized bending of knees and backward hip hinging while the torso remains upright or slightly forward, followed by upward hip drive and knee extension to return to standing.
+
+================================================================================
