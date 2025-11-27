@@ -1,0 +1,84 @@
+
+Round 1 Question:
+Describe the movement process of the human body performing the 'throw a frisbee' action in a sentence.
+Strictly follow these rules:
+1. No lists, bullet points, or dashes
+2. No line breaks
+3. Keep descriptions brief
+4. Start directly with the description
+
+Round 1 Answer:
+The human body initiates the frisbee throw by stepping forward with the opposite foot, rotating the torso, extending the arm sideways, and snapping the wrist to release the disc with spin and accuracy.
+
+================================================================================
+
+Round 2 Question:
+Describe the following body parts actions in short when 'throw a frisbee': head, hand, arm, hip, leg, foot.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Keep descriptions brief
+
+Round 2 Answer:
+Head: Turns slightly to track the target.  
+Hand: Grips the frisbee and snaps wrist upon release.  
+Arm: Swings sideways and extends forward for momentum.  
+Hip: Rotates to generate power from the torso.  
+Leg: Steps forward with the opposite leg for balance.  
+Foot: Pivots on the ball of the supporting foot.
+
+================================================================================
+
+Round 3 Question:
+The human body can be further represented as 17 skeleton joints.
+The labels of the joints are: 1-nose, 2-right shoulder, 3-right elbow, 4-right wrist, 5-left shoulder, 6-left elbow, 7-left wrist, 8-right hip, 9-right knee, 10-right ankle, 11-left hip, 12-left knee, 13-left ankle, 14-right eye, 15-left eye, 16-right ear, 17-left ear.
+Based on the movement process of the 'throw a frisbee' action, please point out all joints that are critical for the recognition of this action, including both left and right sides where applicable. 
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+
+================================================================================
+
+Round 4 Question:
+For all the critical joints identified in the previous answer, describe their movement details in short.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One joint per line, no blank lines
+3. List in numerical order (1-17)
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important
+6. Keep descriptions brief
+
+Round 4 Answer:
+2-right shoulder: Rotates backward then forward for throwing power.  
+3-right elbow: Bends then extends to propel the frisbee.  
+4-right wrist: Snaps forward to release with spin.  
+5-left shoulder: Stabilizes as right side moves.  
+6-left elbow: Slightly bends for balance.  
+7-left wrist: Minimal movement, stays relaxed.  
+8-right hip: Rotates forward to generate torque.  
+11-left hip: Shifts weight to support the throw.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize the key features that recognize the 'throw a frisbee' action in one sentence.
+Strictly follow these rules:
+1. No bullet points or dashes
+2. No line breaks
+3. No joint labels
+4. Keep it concise
+5. Start directly with the description
+
+Round 5 Answer:
+The key features recognizing a frisbee throw include a rotating shoulder, extending elbow, snapping wrist on the throwing side, stabilizing opposite arm, hip rotation for torque, and a forward step for balance.
+
+================================================================================

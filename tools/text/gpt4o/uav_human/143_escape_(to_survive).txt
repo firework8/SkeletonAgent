@@ -1,0 +1,84 @@
+
+Round 1 Question:
+Describe the movement process of the human body performing the 'escape (to survive)' action in a sentence.
+Strictly follow these rules:
+1. No lists, bullet points, or dashes
+2. No line breaks
+3. Keep descriptions brief
+4. Start directly with the description
+
+Round 1 Answer:
+The human body rapidly tenses muscles, propelling limbs into swift, coordinated motion as the torso leans forward, eyes dart for exits, feet push off the ground with explosive force, arms swing to maintain balance, and the entire system accelerates away from perceived danger while adrenaline sharpens reflexes.
+
+================================================================================
+
+Round 2 Question:
+Describe the following body parts actions in short when 'escape (to survive)': head, hand, arm, hip, leg, foot.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Keep descriptions brief
+
+Round 2 Answer:
+Head: Swivels rapidly to assess threats and locate escape routes.  
+Hand: Clenches or opens dynamically for balance or to push obstacles away.  
+Arm: Swings forcefully to generate momentum and maintain stability.  
+Hip: Rotates and shifts weight to enable sharp directional changes.  
+Leg: Drives powerfully against the ground to propel the body forward.  
+Foot: Pushes off with explosive force for speed and rapid steps.
+
+================================================================================
+
+Round 3 Question:
+The human body can be further represented as 17 skeleton joints.
+The labels of the joints are: 1-nose, 2-right shoulder, 3-right elbow, 4-right wrist, 5-left shoulder, 6-left elbow, 7-left wrist, 8-right hip, 9-right knee, 10-right ankle, 11-left hip, 12-left knee, 13-left ankle, 14-right eye, 15-left eye, 16-right ear, 17-left ear.
+Based on the movement process of the 'escape (to survive)' action, please point out all joints that are critical for the recognition of this action, including both left and right sides where applicable. 
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+
+================================================================================
+
+Round 4 Question:
+For all the critical joints identified in the previous answer, describe their movement details in short.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One joint per line, no blank lines
+3. List in numerical order (1-17)
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important
+6. Keep descriptions brief
+
+Round 4 Answer:
+2-right shoulder: Rotates and lifts to drive arm movement for balance and propulsion.  
+3-right elbow: Bends sharply to swing arm backward, then extends for forward thrust.  
+5-left shoulder: Mirrors right shoulder, aiding in coordinated upper-body motion.  
+6-left elbow: Flexes and extends rapidly to assist in arm swing and momentum.  
+8-right hip: Twists forward to maximize stride length and speed.  
+9-right knee: Drives upward and extends forcefully to push off the ground.  
+11-left hip: Rotates in sync with right hip for fluid, alternating leg motion.  
+12-left knee: Bends and straightens aggressively to maintain running rhythm.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize the key features that recognize the 'escape (to survive)' action in one sentence.
+Strictly follow these rules:
+1. No bullet points or dashes
+2. No line breaks
+3. No joint labels
+4. Keep it concise
+5. Start directly with the description
+
+Round 5 Answer:
+The 'escape (to survive)' action is characterized by rapid, forceful movements of the shoulders, elbows, hips, and knees, driving explosive arm swings and powerful leg strides to propel the body forward with urgency.
+
+================================================================================
