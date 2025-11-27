@@ -1,0 +1,84 @@
+
+Round 1 Question:
+Describe the movement process of the human body performing the 'put on a coat' action in a sentence.
+Strictly follow these rules:
+1. No lists, bullet points, or dashes
+2. No line breaks
+3. Keep descriptions brief
+4. Start directly with the description
+
+Round 1 Answer:
+The person slides one arm into a coat sleeve, then the other, adjusts the coat over their shoulders, and fastens it if needed.
+
+================================================================================
+
+Round 2 Question:
+Describe the following body parts actions in short when 'put on a coat': head, hand, arm, hip, leg, foot.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Keep descriptions brief
+
+Round 2 Answer:
+Head: Turns slightly to guide arm into sleeve.  
+Hand: Grips and guides the coat sleeve.  
+Arm: Extends and bends to slide into sleeve.  
+Hip: Shifts weight for balance during movement.  
+Leg: Remains stable to support posture.  
+Foot: Stays planted to maintain stability.
+
+================================================================================
+
+Round 3 Question:
+The human body can be further represented as 17 skeleton joints.
+The labels of the joints are: 1-nose, 2-right shoulder, 3-right elbow, 4-right wrist, 5-left shoulder, 6-left elbow, 7-left wrist, 8-right hip, 9-right knee, 10-right ankle, 11-left hip, 12-left knee, 13-left ankle, 14-right eye, 15-left eye, 16-right ear, 17-left ear.
+Based on the movement process of the 'put on a coat' action, please point out all joints that are critical for the recognition of this action, including both left and right sides where applicable. 
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+2, 3, 4, 5, 6, 7, 8, 11
+
+================================================================================
+
+Round 4 Question:
+For all the critical joints identified in the previous answer, describe their movement details in short.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One joint per line, no blank lines
+3. List in numerical order (1-17)
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important
+6. Keep descriptions brief
+
+Round 4 Answer:
+2-right shoulder: Rotates and lifts to guide arm into sleeve.  
+3-right elbow: Bends to slide forearm into coat sleeve.  
+4-right wrist: Adjusts angle to ease hand through sleeve.  
+5-left shoulder: Shifts slightly to assist arm movement.  
+6-left elbow: Flexes to pull coat over the back.  
+7-left wrist: Twists to help secure the coat.  
+8-right hip: Stabilizes posture during arm motion.  
+11-left hip: Balances weight as arms move.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize the key features that recognize the 'put on a coat' action in one sentence.
+Strictly follow these rules:
+1. No bullet points or dashes
+2. No line breaks
+3. No joint labels
+4. Keep it concise
+5. Start directly with the description
+
+Round 5 Answer:
+The action is recognized by coordinated shoulder rotation, elbow bending, wrist adjustments for sleeve entry, and hip stabilization for balance while pulling the coat on.
+
+================================================================================

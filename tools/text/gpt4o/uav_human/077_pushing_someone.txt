@@ -1,0 +1,83 @@
+
+Round 1 Question:
+Describe the movement process of the human body performing the 'pushing someone' action in a sentence.
+Strictly follow these rules:
+1. No lists, bullet points, or dashes
+2. No line breaks
+3. Keep descriptions brief
+4. Start directly with the description
+
+Round 1 Answer:
+The human body initiates the pushing action by bending the knees slightly, leaning forward to shift weight onto the front foot, extending the arms to make contact with the target, and then straightening the legs and torso to transfer force through the hands, propelling the person away.
+
+================================================================================
+
+Round 2 Question:
+Describe the following body parts actions in short when 'pushing someone': head, hand, arm, hip, leg, foot.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Keep descriptions brief
+
+Round 2 Answer:
+Head: Tilts slightly forward as the body leans into the push.  
+Hand: Flattens against the target with fingers spread for stability.  
+Arm: Extends forcefully from the shoulder to transfer energy.  
+Hip: Rotates forward to add power from the core.  
+Leg: Drives forward with the back leg to generate momentum.  
+Foot: Pushes off the ground, shifting weight to the front foot.
+
+================================================================================
+
+Round 3 Question:
+The human body can be further represented as 17 skeleton joints.
+The labels of the joints are: 1-nose, 2-right shoulder, 3-right elbow, 4-right wrist, 5-left shoulder, 6-left elbow, 7-left wrist, 8-right hip, 9-right knee, 10-right ankle, 11-left hip, 12-left knee, 13-left ankle, 14-right eye, 15-left eye, 16-right ear, 17-left ear.
+Based on the movement process of the 'pushing someone' action, please point out all joints that are critical for the recognition of this action, including both left and right sides where applicable. 
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13
+
+================================================================================
+
+Round 4 Question:
+For all the critical joints identified in the previous answer, describe their movement details in short.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One joint per line, no blank lines
+3. List in numerical order (1-17)
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important
+6. Keep descriptions brief
+
+Round 4 Answer:
+1-nose: Leans forward slightly as the torso moves toward the target.  
+2-right shoulder: Rotates forward to drive the right arm extension.  
+3-right elbow: Extends fully to push with the right hand.  
+5-left shoulder: Stabilizes or assists in upper-body force transfer.  
+6-left elbow: May flex or extend to balance or reinforce the push.  
+8-right hip: Rotates forward to add power from the lower body.  
+11-left hip: Shifts weight to support the pushing motion.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize the key features that recognize the 'pushing someone' action in one sentence.
+Strictly follow these rules:
+1. No bullet points or dashes
+2. No line breaks
+3. No joint labels
+4. Keep it concise
+5. Start directly with the description
+
+Round 5 Answer:
+The key features recognizing a 'pushing someone' action include forward torso lean, shoulder rotation and arm extension for force transfer, coordinated hip rotation for power, and weight shift through the legs to propel the target.
+
+================================================================================
