@@ -1,0 +1,79 @@
+
+Round 1 Question:
+Describe the movement process of the human body performing the 'cutting nails' action in a sentence.
+
+Round 1 Answer:
+The human body performs the 'cutting nails' action by flexing the fingers to position the nail clipper, applying pressure with the thumb and opposing fingers to cut the nail, while the wrist and arm adjust for precision and stability.
+
+================================================================================
+
+Round 2 Question:
+Describe the following body parts actions in short when 'cutting nails': head, hand, arm, hip, leg, foot.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Keep descriptions brief
+
+Round 2 Answer:
+Head: Tilts slightly forward to observe the nails.  
+Hand: Grips the nail clipper and positions it over the nail.  
+Arm: Adjusts position to guide the hand for precise cutting.  
+Hip: Remains stable to support upper body balance.  
+Leg: Stays bent or extended depending on sitting or standing.  
+Foot: Rests on the ground or a surface for stability.
+
+================================================================================
+
+Round 3 Question:
+The human body can be further represented as 25 skeleton joints. 
+The labels of the joints are: 1-base of the spine, 2-middle of the spine, 3-neck, 4-head, 5-left shoulder, 6-left elbow, 7-left wrist, 8-left hand, 9-right shoulder, 10-right elbow, 11-right wrist, 12-right hand, 13-left hip, 14-left knee, 15-left ankle, 16-left foot, 17-right hip, 18-right knee, 19-right ankle, 20-right foot, 21-spine, 22-tip of the left hand, 23-left thumb, 24-tip of the right hand, and 25-right thumb. 
+Based on the movement process of the 'cutting nails' action, please point out all joints that are critical for the recognition of this action, including both left and right sides where applicable. 
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24
+
+================================================================================
+
+Round 4 Question:
+For all the critical joints identified in the previous answer, describe their movement details in short.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One joint per line, no blank lines
+3. List in numerical order (1-25)
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important
+6. Keep descriptions brief
+
+Round 4 Answer:
+3-neck: Slightly bends forward to focus on the nails.  
+4-head: Tilts downward to observe the cutting action.  
+7-left wrist: Adjusts angle to position the nail clipper precisely.  
+8-left hand: Grips and operates the nail clipper.  
+11-right wrist: Stabilizes or assists in holding the finger steady.  
+12-right hand: Holds the finger being trimmed for support.  
+21-spine: Maintains upright posture with slight forward lean.  
+22-tip of the left hand: Guides the clipper for accurate cutting.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize the key features that recognize the 'cutting nails' action in one sentence.
+Strictly follow these rules:
+1. No bullet points or dashes
+2. No line breaks
+3. No joint labels
+4. Keep it concise
+5. Start directly with the description
+
+Round 5 Answer:
+The 'cutting nails' action is recognized by the forward tilt of the head and neck, precise wrist and hand movements to grip and operate the clipper, stabilization from the opposite hand, and a slight forward lean of the spine for balance.
+
+================================================================================
