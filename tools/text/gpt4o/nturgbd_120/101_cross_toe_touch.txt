@@ -1,0 +1,85 @@
+
+Round 1 Question:
+Describe the movement process of the human body performing the 'cross toe touch' action in a sentence.
+
+Round 1 Answer:
+The 'cross toe touch' involves bending at the waist while crossing one leg in front of the other, then reaching down with the opposite hand to touch the toes of the crossed foot before returning to an upright position.
+
+================================================================================
+
+Round 2 Question:
+Describe the following body parts actions in short when 'cross toe touch': head, hand, arm, hip, leg, foot.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Keep descriptions brief
+
+Round 2 Answer:
+Head: Tilts slightly forward as the torso bends.  
+Hand: Reaches down toward the opposite foot's toes.  
+Arm: Extends downward with the hand's movement.  
+Hip: Hinges forward to allow the torso to bend.  
+Leg: One leg crosses slightly in front of the other.  
+Foot: Toes of the crossed foot are the target for the hand.
+
+================================================================================
+
+Round 3 Question:
+The human body can be further represented as 25 skeleton joints. 
+The labels of the joints are: 1-base of the spine, 2-middle of the spine, 3-neck, 4-head, 5-left shoulder, 6-left elbow, 7-left wrist, 8-left hand, 9-right shoulder, 10-right elbow, 11-right wrist, 12-right hand, 13-left hip, 14-left knee, 15-left ankle, 16-left foot, 17-right hip, 18-right knee, 19-right ankle, 20-right foot, 21-spine, 22-tip of the left hand, 23-left thumb, 24-tip of the right hand, and 25-right thumb. 
+Based on the movement process of the 'cross toe touch' action, please point out all joints that are critical for the recognition of this action, including both left and right sides where applicable. 
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 24
+
+================================================================================
+
+Round 4 Question:
+For all the critical joints identified in the previous answer, describe their movement details in short.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One joint per line, no blank lines
+3. List in numerical order (1-25)
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important
+6. Keep descriptions brief
+
+Round 4 Answer:
+1-base of the spine: Flexes forward as torso bends down.  
+2-middle of the spine: Curves forward during the bending motion.  
+3-neck: Extends slightly to maintain head position.  
+4-head: Tilts forward with the torso movement.  
+5-left shoulder: Lowers as left arm reaches downward.  
+6-left elbow: Extends straight when reaching for toes.  
+7-left wrist: Flexes slightly to direct hand toward foot.  
+8-left hand: Stretches toward opposite foot's toes.  
+9-right shoulder: Stabilizes as right arm remains passive.  
+13-left hip: Hinges forward to enable torso bend.  
+14-left knee: Slightly bends to aid balance.  
+17-right hip: Shifts slightly backward for counterbalance.  
+18-right knee: Maintains slight bend for stability.  
+21-spine: Coordinates forward flexion of torso.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize the key features that recognize the 'cross toe touch' action in one sentence.
+Strictly follow these rules:
+1. No bullet points or dashes
+2. No line breaks
+3. No joint labels
+4. Keep it concise
+5. Start directly with the description
+
+Round 5 Answer:
+The 'cross toe touch' is recognized by forward spine flexion, one hand reaching toward the opposite foot while the torso bends, hips hinging asymmetrically, and knees maintaining slight bends for balance.
+
+================================================================================
