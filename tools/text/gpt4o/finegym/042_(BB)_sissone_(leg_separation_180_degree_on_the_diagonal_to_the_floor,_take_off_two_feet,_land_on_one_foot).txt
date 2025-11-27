@@ -1,0 +1,91 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(BB) sissone (leg separation 180 degree on the diagonal to the floor, take off two feet, land on one foot)' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast initiates the (BB) sissone by pushing explosively off both feet on the diagonal, achieving a 180-degree leg separation mid-air with the lead leg extending forward and the trailing leg backward, maintaining an upright torso and controlled arm positioning, then landing smoothly on the lead leg with the trailing leg held high in a controlled finish, ensuring minimal wobble upon touchdown.
+
+================================================================================
+
+Round 2 Question:
+For the '(BB) sissone (leg separation 180 degree on the diagonal to the floor, take off two feet, land on one foot)' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Remains upright and aligned with the torso, gaze fixed forward to maintain balance, contrasting with jumps involving head tilts or turns.  
+Hand: Fingers extended and slightly tense, palms facing inward or slightly down, aiding in stability rather than expressive motion like in dance leaps.  
+Arm: Extends diagonally forward and back in opposition to leg separation, maintaining symmetry without excessive swing, unlike flailing arms in uncontrolled jumps.  
+Hip: Stays square to the diagonal, resisting rotation to emphasize the 180° leg split, unlike stag jumps where hips may open asymmetrically.  
+Leg: Lead leg drives forward while trailing leg extends backward with straight knees, achieving a clean mid-air split, unlike scissors-like actions with bent knees.  
+Foot: Takeoff is from both feet with a quick push, landing on the lead foot’s ball with the trailing foot pointed upward, unlike hops where feet stay close.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(BB) sissone (leg separation 180 degree on the diagonal to the floor, take off two feet, land on one foot)', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(BB) sissone (leg separation 180 degree on the diagonal to the floor, take off two feet, land on one foot)' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Initiates upward drive early, stays aligned with diagonal, slightly higher than right at peak.  
+7-right shoulder: Extends backward with controlled opposition to left leg, delays drop to stabilize landing.  
+12-left hip: Drives forward explosively on takeoff, maintains 90° split relative to torso mid-air.  
+13-right hip: Extends backward with minimal rotation, holds split position longer than left for balance.  
+14-left knee: Fully extends forward in mid-air, remains straight until landing absorption.  
+15-right knee: Locks backward at 180° split, stays hyperextended to emphasize leg line.  
+16-left ankle: Plantarflexes sharply on takeoff, dorsiflexes slightly before landing for shock absorption.  
+17-right ankle: Maintains pointed toe throughout, delays flexion to highlight split amplitude.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(BB) sissone (leg separation 180 degree on the diagonal to the floor, take off two feet, land on one foot)' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+The sissone is distinguished by its explosive two-foot takeoff into a precise 180° mid-air split on the diagonal, with shoulders and hips remaining square, controlled arm opposition, and a smooth one-foot landing while maintaining full leg extension and minimal upper-body rotation.
+
+================================================================================

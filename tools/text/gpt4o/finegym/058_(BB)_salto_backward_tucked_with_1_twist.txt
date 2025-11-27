@@ -1,0 +1,90 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(BB) salto backward tucked with 1 twist' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast initiates the backward salto by pushing off the beam with both feet, simultaneously swinging the arms upward and backward to generate momentum, then tucks the knees tightly to the chest while initiating a backward rotation, and precisely halfway through the flip, adds a swift 360-degree horizontal twist by sharply turning the shoulders and hips in the same direction, maintaining the tuck to maximize rotational speed, before untucking the legs and extending the body to prepare for a controlled landing on the beam, all while ensuring the twist is completed before the feet make contact.
+
+================================================================================
+
+Round 2 Question:
+For the '(BB) salto backward tucked with 1 twist' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Neutral alignment early, then sharply turns sideways mid-rotation to initiate the twist, contrasting with untwisted saltos where it stays neutral.  
+Hand: Starts palms-up in backward swing, then one hand pulls across the body to drive the twist while the other stabilizes, differing from non-twisting saltos with symmetrical arm pulls.  
+Arm: Leading arm swings upward then tucks tightly to the chest, while the trailing arm whips across the torso to accelerate the twist, unlike untucked saltos with wider arm circles.  
+Hip: Rapidly flexes into a tight tuck (knees to chest) while rotating backward, then twists sharply in sync with the shoulders, unlike open layouts where hips stay extended.  
+Leg: Knees pull aggressively to the chest in early tuck, then one leg may slightly lead the twist, unlike straight-back saltos where legs remain straight or loosely piked.  
+Foot: Pushes off the beam with pointed toes, then tucks under the hips, with one foot potentially driving the twist by slight inward rotation, unlike non-twisting saltos where feet stay symmetrical.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(BB) salto backward tucked with 1 twist', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(BB) salto backward tucked with 1 twist' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Initiates upward-backward swing early, then asymmetrically drives inward to start the twist mid-air.  
+7-right shoulder: Mirrors left initially, but delays inward pull slightly to enhance rotational torque during the twist.  
+12-left hip: Rapidly flexes into tuck, then leads the twist with a slight forward rotation compared to the right.  
+13-right hip: Follows left hip into tuck but resists early twist, creating tension for controlled rotation.  
+18-mid hip: Maintains tight flexion (near 90°) throughout salto, then twists sharply mid-rotation to align with shoulders.  
+19-thorax: Rotates backward with initial salto, then twists horizontally 180° before untucking, ensuring full twist completion.  
+20-mid shoulder: Starts neutral, then tilts laterally during takeoff and twists in sync with thorax for axis control.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(BB) salto backward tucked with 1 twist' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+This element is distinguished by a powerful backward tuck rotation initiated with symmetrical arm swing, followed by a sharp mid-air shoulder-and-hip twist while maintaining a compact tucked posture, ensuring the single twist completes before landing.
+
+================================================================================

@@ -1,0 +1,91 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(FX) split jump (leg separation 180 degree parallel to the floor)' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast begins with a powerful forward or backward takeoff, driving the arms upward as both legs simultaneously split to 180 degrees parallel to the floor, reaching peak height with hips squared and toes pointed, then swiftly bringing the legs back together mid-air before landing with knees slightly bent to absorb impact, maintaining upright torso alignment throughout.
+
+================================================================================
+
+Round 2 Question:
+For the '(FX) split jump (leg separation 180 degree parallel to the floor)' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Remains neutral and aligned with the spine, eyes forward, distinguishing it from jumps with deliberate head tilts or turns.  
+Hand: Palms face inward or slightly forward during upward arm swing, aiding lift, unlike relaxed or flared positions in other jumps.  
+Arm: Drives sharply upward in sync with takeoff, reaching full extension before peak height, ensuring controlled split timing.  
+Hip: Stays squared and level during the 180° leg separation, preventing rotation seen in stag or straddle jumps.  
+Leg: Splits rapidly to exactly 180° parallel to the floor, emphasizing symmetry and straight knees unlike bent-leg variations.  
+Foot: Points aggressively throughout the jump, with toes leading the split motion, contrasting with lazy or flexed footwork in less precise jumps.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(FX) split jump (leg separation 180 degree parallel to the floor)', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(FX) split jump (leg separation 180 degree parallel to the floor)' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Drives upward sharply at takeoff, reaching full extension before peak height to maximize lift.  
+7-right shoulder: Mirrors left shoulder, ensuring symmetrical arm swing for controlled split timing.  
+12-left hip: Opens fully to 90° outward during split, maintaining alignment parallel to the floor.  
+13-right hip: Matches left hip’s 90° outward rotation, ensuring perfect 180° leg separation.  
+14-left knee: Extends completely during split, toes pointed, with no bend to emphasize line.  
+15-right knee: Matches left knee’s full extension, critical for the straight-leg 180° split.  
+18-mid hip: Stays precisely centered and level, preventing tilt or rotation during the jump.  
+20-mid shoulder: Anchors upper-body stability, aligning with mid-hip for clean aerial posture.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(FX) split jump (leg separation 180 degree parallel to the floor)' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+A perfectly squared 180° leg split with fully extended knees and pointed toes, driven by symmetrical shoulder thrust and rigid hip alignment mid-air, distinguishes this jump from bent-knee or rotated variations.
+
+================================================================================

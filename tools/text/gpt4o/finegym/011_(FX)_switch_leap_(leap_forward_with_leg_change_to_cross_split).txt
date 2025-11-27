@@ -1,0 +1,91 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(FX) switch leap (leap forward with leg change to cross split)' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast initiates the FX switch leap by explosively pushing off one leg into a forward leap, simultaneously swinging the opposite leg upward to achieve maximum height and amplitude, then swiftly scissoring the legs mid-air to switch their positions, transitioning into a cross split with the hips squared forward and legs extended horizontally in opposite directions, before landing smoothly on the takeoff leg with control and precision.
+
+================================================================================
+
+Round 2 Question:
+For the '(FX) switch leap (leap forward with leg change to cross split)' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Remains upright and neutral, slightly lifted to maintain balance, contrasting with other leaps where it may tilt or turn.  
+Hand: Starts relaxed by the hips, swings slightly upward for momentum, but remains controlled unlike dramatic arm swings in stag leaps.  
+Arm: Extends slightly sideways at takeoff for balance, then stabilizes in a T-position mid-air to counter hip rotation.  
+Hip: Squares forward at takeoff, rotates minimally during the switch, staying aligned unlike open-hip split leaps.  
+Leg: Lead leg drives upward sharply, then switches mid-air into a cross split with precise 180° separation.  
+Foot: Takeoff foot points aggressively at launch, while the landing foot stays extended and controlled for stability.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(FX) switch leap (leap forward with leg change to cross split)', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 12, 13, 14, 15, 16, 17, 18, 19
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(FX) switch leap (leap forward with leg change to cross split)' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Stabilizes in slight upward lift at takeoff, then holds neutral T-position mid-air to counter hip rotation.  
+7-right shoulder: Mirrors left shoulder but may adjust slightly during leg switch to maintain balance.  
+12-left hip: Drives upward sharply at launch, then rotates minimally to transition into cross-split position.  
+13-right hip: Initiates split later than left hip, achieving 180° separation with controlled asymmetry.  
+14-left knee: Extends fully during takeoff, then bends slightly mid-air for leg switch timing.  
+15-right knee: Delayed extension compared to left, snapping straight to complete cross-split.  
+18-mid hip: Squares forward at takeoff, maintains alignment during switch to ensure clean split line.  
+19-thorax: Holds upright posture throughout, resisting backward lean common in other leaps.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(FX) switch leap (leap forward with leg change to cross split)' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+The switch leap is distinguished by a forward takeoff with squared hips, a sharp mid-air scissor switch into a 180° cross split, and upright thoracic posture—unlike other leaps with open hips, delayed splits, or upper-body tilts.
+
+================================================================================

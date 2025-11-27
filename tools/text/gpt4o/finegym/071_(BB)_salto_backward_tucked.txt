@@ -1,0 +1,91 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(BB) salto backward tucked' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast initiates the '(BB) salto backward tucked' by swinging the arms upward and pushing off the beam with the legs, simultaneously leaning backward to generate rotation, then quickly tucking the knees tightly to the chest while the hips drive upward and the head remains neutral, creating a compact backward somersault with a high amplitude, before extending the legs downward and the arms outward to prepare for a controlled landing on the beam, all while maintaining precise body alignment and momentum throughout the movement.
+
+================================================================================
+
+Round 2 Question:
+For the '(BB) salto backward tucked' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Remains neutral and slightly tucked early to align with backward rotation, avoiding excessive tilt that could disrupt balance.  
+Hand: Starts palms-down on the beam, then swings sharply upward and backward to generate momentum before tucking.  
+Arm: Extends fully upward in the initial swing, then bends sharply at the elbows during the tuck to enhance rotation speed.  
+Hip: Drives upward and backward in a quick, powerful thrust to initiate rotation, staying compact in the tuck.  
+Leg: Extends forcefully off the beam, then bends tightly at the knees in mid-air, pulling into a deep tuck for maximum rotation.  
+Foot: Pushes off the beam with a pointed toe, then retracts quickly into the tuck before extending again for landing.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(BB) salto backward tucked', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(BB) salto backward tucked' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Initiates upward swing early, driving backward rotation with strong asymmetry compared to forward elements.  
+7-right shoulder: Mirrors left shoulder but with slight delay to stabilize initial push-off.  
+12-left hip: Thrusts sharply upward and backward, bending past 90° during tuck for rapid rotation.  
+13-right hip: Matches left hip but maintains tighter alignment to prevent over-rotation.  
+14-left knee: Flexes aggressively into tuck, pulling heel toward hip faster than in layout variations.  
+15-right knee: Synchronizes with left knee but angles slightly outward for balance control.  
+18-mid hip: Acts as rotation pivot, staying compact while driving upward force.  
+20-mid shoulder: Aligns with mid hip, delaying extension until peak height to maximize flip.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(BB) salto backward tucked' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+The backward salto tucked is distinguished by a powerful upward-backward hip thrust with sharp knee tucking, synchronized shoulder-driven rotation, and a compact mid-air posture that accelerates flip speed compared to piked or layout variations.
+
+================================================================================

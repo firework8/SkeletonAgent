@@ -1,0 +1,91 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(FX) 1 turn on one leg, free leg optional below horizontal' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast initiates the movement by standing on one leg with the free leg lifted below horizontal, then rotates the body 360 degrees around the vertical axis while maintaining the support leg's stability, keeping the free leg controlled and below horizontal throughout the turn, and finishes in the starting position with precise alignment and balance.
+
+================================================================================
+
+Round 2 Question:
+For the '(FX) 1 turn on one leg, free leg optional below horizontal' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Remains upright and aligned with the spine, turning smoothly with the rotation to maintain balance and focus.  
+Hand: Free hand typically extends slightly outward or rests on the hip, aiding in rotational control without excessive swing.  
+Arm: Support arm may stay slightly bent or extended for balance, while the free arm remains controlled to prevent momentum shifts.  
+Hip: Stays level and stable throughout the turn, avoiding excessive tilt to ensure a clean vertical rotation.  
+Leg: Free leg remains straight or slightly bent below horizontal, distinguishing it from higher-leg turns like attitude or passé.  
+Foot: Support foot pivots cleanly on the ball, driving rotation without hopping or losing contact with the floor.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(FX) 1 turn on one leg, free leg optional below horizontal', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(FX) 1 turn on one leg, free leg optional below horizontal' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Slightly lowered and stabilized to counterbalance the free leg’s position during rotation.  
+7-right shoulder: Aligns level with the left, preventing tilt to maintain axial symmetry in the turn.  
+12-left hip: Remains elevated if supporting leg is left, ensuring free leg stays below horizontal.  
+13-right hip: Controls free leg’s height, preventing upward drift beyond horizontal.  
+16-left ankle: Actively dorsiflexed if on support leg, driving pivot rotation smoothly.  
+17-right ankle: Points or flexes slightly if free leg, maintaining clean line below horizontal.  
+18-mid hip: Stays centered over support foot, avoiding lateral shifts during rotation.  
+20-mid shoulder: Rotates precisely with the torso, preventing over-rotation or wobble.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(FX) 1 turn on one leg, free leg optional below horizontal' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+This element is distinguished by a controlled 360° pivot on one leg with the free leg held steadily below horizontal, requiring precise hip and shoulder alignment to maintain balance without tilting or over-rotation.
+
+================================================================================

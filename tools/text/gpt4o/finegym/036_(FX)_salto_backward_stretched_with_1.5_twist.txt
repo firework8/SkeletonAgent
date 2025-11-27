@@ -1,0 +1,90 @@
+
+Round 1 Question:
+Describe in full detail the movement of the human body during the '(FX) salto backward stretched with 1.5 twist' gymnastics element in one sentence.
+Focus specifically on the timing, direction, amplitude, and transitions of body parts.
+Highlight how the action unfolds from start to finish.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The gymnast initiates the movement by forcefully pushing off the floor with both legs while simultaneously swinging the arms upward, propelling the body backward into a stretched backflip; during the ascent, the torso and hips remain fully extended as the head tilts slightly back to maintain momentum, and at the peak of rotation, a rapid 1.5 twist is initiated by sharply turning the shoulders and arms while keeping the legs tightly together, completing the twist just before the body begins descending, where the arms extend outward to stabilize and prepare for a controlled landing with knees slightly bent to absorb impact.
+
+================================================================================
+
+Round 2 Question:
+For the '(FX) salto backward stretched with 1.5 twist' gymnastics element, give a precise and brief description of how each of the following body parts moves: head, hand, arm, hip, leg, foot.
+Focus on posture, timing, rotation, and symmetry.
+Mention how the motion of each part helps distinguish this element from similar ones.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Include directional terms (e.g., forward, upward), angles (e.g., bent at 90°), or timing cues (e.g., early lift, delayed landing)
+6. Focus on what makes the motion unique in contrast to visually similar actions
+7. Keep descriptions brief
+
+Round 2 Answer:
+Head: Slightly tilts back at takeoff to initiate backward rotation but remains neutral mid-air to avoid over-rotation, unlike tucked saltos where tucking alters head position.  
+Hand: Starts palms-down at takeoff, swings upward forcefully, then twists inward sharply to drive the 1.5 rotation, unlike single twists where hand motion is less pronounced.  
+Arm: Extends fully upward during lift, then pulls asymmetrically (one arm crosses chest) to generate twist momentum, differing from straight backflips where arms stay symmetrical.  
+Hip: Maintains full extension throughout, preventing pike or tuck, distinguishing it from tucked or piked saltos where hip angle changes.  
+Leg: Stays straight and pressed together from takeoff to landing, ensuring a stretched shape, unlike tucked variations where knees bend.  
+Foot: Points toes aggressively during flight to emphasize body tension, with slight dorsiflexion at landing to absorb impact, unlike loose-footed twists.
+
+================================================================================
+
+Round 3 Question:
+We represent the human body with 20 joints labeled:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the full-body motion of '(FX) salto backward stretched with 1.5 twist', list the joints that are most critical to distinguish this element from other similar elements in the same set.
+Include both sides (left/right) when relevant.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20
+
+================================================================================
+
+Round 4 Question:
+Now describe the fine-grained motion or alignment of the critical joints listed above during the '(FX) salto backward stretched with 1.5 twist' gymnastics element.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One line per joint, no blank lines
+3. Order by joint number
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important joints for distinguishing this element
+6. Include temporal cues (e.g., 'initiates early', 'holds position longer'), angular features (e.g., 'extends beyond 120°'), or asymmetries
+7. Keep descriptions brief
+
+Round 4 Answer:
+6-left shoulder: Initiates upward swing early, drives asymmetrically inward during twist phase to generate rotation.  
+7-right shoulder: Mirrors left but delays inward pull slightly to enhance 1.5 twist momentum.  
+12-left hip: Maintains full extension throughout, no flexion unlike tucked saltos.  
+13-right hip: Stays locked in line with left hip, ensuring stretched body alignment.  
+18-mid hip: Anchors backward rotation, remains stable to prevent piking.  
+19-thorax: Rotates sharply at peak height to execute 1.5 twist, distinct from single twists.  
+20-mid shoulder: Coordinates arm asymmetry, tilts minimally to avoid off-axis rotation.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the '(FX) salto backward stretched with 1.5 twist' gymnastics element can be recognized and distinguished from similar elements in one concise sentence, focusing on coordination, timing, rotation, and posture.
+Strictly follow these rules:
+1. No joint numbers or bullet points or dashes
+2. Use only one sentence, no line breaks
+3. Begin immediately with the description (no "The element is...")
+4. Emphasize what makes this element visually or structurally different from other similar elements in the same set
+5. Keep it concise (<70 tokens)
+
+Round 5 Answer:
+This element is distinguished by a fully stretched backward rotation with a sharp 1.5 twist initiated at peak height, driven by asymmetrical shoulder pulls while maintaining rigid hip and leg alignment to prevent piking or tucking.
+
+================================================================================
