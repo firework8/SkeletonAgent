@@ -1,0 +1,80 @@
+
+Round 1 Question:
+Describe the movement process of the human body performing the 'playing guitar' action in a sentence.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The fingers press strings on the fretboard while the other hand strums or plucks the strings, arms bend to position the guitar, and the torso leans slightly forward to stabilize the instrument.
+
+================================================================================
+
+Round 2 Question:
+Describe the following body parts actions in short when 'playing guitar': head, hand, arm, hip, leg, foot.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Descriptions must be brief, specific, and focused on motion
+
+Round 2 Answer:
+Head: Tilts slightly forward or sideways to focus on finger placement or sheet music.  
+Hand: Fingers press strings on the fretboard or strum/pick strings near the soundhole.  
+Arm: Forearm moves to strum or fret while upper arm stabilizes the guitar's position.  
+Hip: Shifts slightly to balance the guitar's weight when sitting or standing.  
+Leg: Lifts or bends to support the guitar's body when seated or adjusts stance when standing.  
+Foot: Rests on the floor or a footstool to stabilize posture and guitar angle.
+
+================================================================================
+
+Round 3 Question:
+The human body can be further represented as 20 skeleton joints:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the movement process of the 'playing guitar' action, please point out all joints that are critical for distinguishing this action from similar ones.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 8, 9, 10, 11, 12, 13, 18, 19, 20
+
+================================================================================
+
+Round 4 Question:
+For all the critical joints listed above, describe their movement details in short.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One joint per line, no blank lines
+3. List joints in increasing numerical order
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important
+6. Keep it brief but informative
+
+Round 4 Answer:
+6-left shoulder: Rotates slightly forward to position the guitar body.  
+7-right shoulder: Stabilizes while allowing strumming arm movement.  
+8-left elbow: Bends to bring fretboard hand into playing position.  
+9-right elbow: Flexes and extends during strumming or picking motions.  
+10-left wrist: Arches to enable precise finger placement on frets.  
+11-right wrist: Pivots fluidly during strumming or plucking strings.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the 'playing guitar' action can be recognized by key joint movements in one concise sentence.
+Strictly follow these rules:
+1. No lists, line breaks, or joint numbers
+2. Focus on the overall motion signature
+3. Start directly with the description without introduction phrases
+4. Must clearly reflect what makes this action unique or subtle
+
+Round 5 Answer:
+The guitar-playing action is characterized by asymmetrical arm positioning with one elbow bent for fretting while the other flexes rhythmically for strumming, accompanied by subtle shoulder rotations to stabilize the instrument and precise wrist articulations for string control.
+
+================================================================================
