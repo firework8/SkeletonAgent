@@ -1,0 +1,80 @@
+
+Round 1 Question:
+Describe the movement process of the human body performing the 'bench pressing' action in a sentence.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+The lifter lies on a bench, grips the barbell with hands wider than shoulder-width, lowers it to the chest, then pushes it upward until arms are fully extended.
+
+================================================================================
+
+Round 2 Question:
+Describe the following body parts actions in short when 'bench pressing': head, hand, arm, hip, leg, foot.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Descriptions must be brief, specific, and focused on motion
+
+Round 2 Answer:
+Head: Remains pressed against the bench with a neutral spine.  
+Hand: Grips the barbell firmly with palms facing forward.  
+Arm: Lowers the barbell to the chest, then extends upward to lockout.  
+Hip: Stays in contact with the bench, maintaining stability.  
+Leg: Feet planted firmly, driving force through the floor.  
+Foot: Flat on the ground, providing a stable base.
+
+================================================================================
+
+Round 3 Question:
+The human body can be further represented as 20 skeleton joints:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the movement process of the 'bench pressing' action, please point out all joints that are critical for distinguishing this action from similar ones.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
+
+================================================================================
+
+Round 4 Question:
+For all the critical joints listed above, describe their movement details in short.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One joint per line, no blank lines
+3. List joints in increasing numerical order
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important
+6. Keep it brief but informative
+
+Round 4 Answer:
+6-left shoulder: Stabilizes while arms move, prevents excessive arching.  
+7-right shoulder: Mirrors left shoulder, maintains bench contact and control.  
+8-left elbow: Lowers barbell with control, then extends forcefully upward.  
+9-right elbow: Synchronizes with left elbow for balanced pressing motion.  
+10-left wrist: Keeps straight to transfer force efficiently to barbell.  
+11-right wrist: Aligns with left wrist to maintain grip stability.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the 'bench pressing' action can be recognized by key joint movements in one concise sentence.
+Strictly follow these rules:
+1. No lists, line breaks, or joint numbers
+2. Focus on the overall motion signature
+3. Start directly with the description without introduction phrases
+4. Must clearly reflect what makes this action unique or subtle
+
+Round 5 Answer:
+The bench press is recognized by synchronized elbow flexion-extension driving the barbell upward while shoulders stabilize against the bench, wrists remain rigid in grip, and hips/legs maintain grounded tension without lifting.
+
+================================================================================

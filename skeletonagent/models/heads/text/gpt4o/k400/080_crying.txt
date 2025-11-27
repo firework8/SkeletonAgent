@@ -1,0 +1,82 @@
+
+Round 1 Question:
+Describe the movement process of the human body performing the 'crying' action in a sentence.
+Strictly follow these rules:
+1. No line breaks
+2. Keep descriptions brief
+3. Start directly with the description
+
+Round 1 Answer:
+Tears well up in the eyes, cheeks tense slightly, the mouth quivers or opens, shoulders may shake, and hands often cover the face or wipe tears away.
+
+================================================================================
+
+Round 2 Question:
+Describe the following body parts actions in short when 'crying': head, hand, arm, hip, leg, foot.
+Strictly follow these rules:
+1. Each body part must be listed separately in this exact order: Head, Hand, Arm, Hip, Leg, Foot
+2. Format as "[Body part]: [Description]." with no dashes or numbers
+3. Use exactly one line per body part with no blank lines
+4. Never combine body parts (e.g., no "Hand & Arm")
+5. Descriptions must be brief, specific, and focused on motion
+
+Round 2 Answer:
+Head: Tilts forward or drops slightly with the chin tucking in.  
+Hand: Covers the face or wipes tears away in quick, shaky motions.  
+Arm: Rises to bring hands to the face or hangs loosely by the sides.  
+Hip: Stays mostly still but may shift slightly with uneven breathing.  
+Leg: Remains planted but may tremble or feel weak from tension.  
+Foot: Stays flat on the ground or shifts weight nervously.
+
+================================================================================
+
+Round 3 Question:
+The human body can be further represented as 20 skeleton joints:
+1-nose, 2-left eye, 3-right eye, 4-left ear, 5-right ear, 6-left shoulder, 7-right shoulder, 8-left elbow, 9-right elbow, 10-left wrist, 11-right wrist, 12-left hip, 13-right hip, 14-left knee, 15-right knee, 16-left ankle, 17-right ankle, 18-mid hip, 19-thorax, 20-mid shoulder.
+Based on the movement process of the 'crying' action, please point out all joints that are critical for distinguishing this action from similar ones.
+Strictly follow these rules:
+1. List only the numerical labels of critical joints
+2. Separate labels with commas and single spaces
+3. Order the numbers from smallest to largest
+4. Put all numbers on one line with no line breaks
+5. Do not include any other text or explanations
+
+Round 3 Answer:
+1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 19, 20
+
+================================================================================
+
+Round 4 Question:
+For all the critical joints listed above, describe their movement details in short.
+Strictly follow these rules:
+1. Use exact format: "[label]-[joint name]: [description]."
+2. One joint per line, no blank lines
+3. List joints in increasing numerical order
+4. Exclude non-critical joints
+5. If >10 critical joints, select 4-8 most important
+6. Keep it brief but informative
+
+Round 4 Answer:
+1-nose: Slightly dips downward as the head tilts forward.  
+2-left eye: Squints or closes tightly as tears form.  
+3-right eye: Squints or closes tightly in sync with the left.  
+6-left shoulder: Rises slightly or shakes with uneven breaths.  
+7-right shoulder: Rises slightly or shakes similarly to the left.  
+10-left wrist: Moves upward to wipe tears or cover the face.  
+11-right wrist: Mirrors left wrist in wiping or covering motion.  
+19-thorax: Contracts subtly with hitched breathing or sobs.
+
+================================================================================
+
+Round 5 Question:
+Based on the above information, please summarize how the 'crying' action can be recognized by key joint movements in one concise sentence.
+Strictly follow these rules:
+1. No lists, line breaks, or joint numbers
+2. Focus on the overall motion signature
+3. Start directly with the description without introduction phrases
+4. Must clearly reflect what makes this action unique or subtle
+
+Round 5 Answer:
+The crying action is recognized by a forward head tilt with eyes squinting or closing, shoulders rising or shaking slightly, wrists moving upward to wipe tears or cover the face, and subtle thorax contractions from hitched breathing.
+
+================================================================================
