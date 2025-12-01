@@ -1,8 +1,23 @@
-# SkeletonAgent
+<div align="center">
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-red.svg)]() [![models](https://img.shields.io/badge/Link-Models-87CEEB.svg)](https://drive.google.com/drive/folders/1CFMuBrJGktxHfv2GeX8bbgnDuINVrC08?usp=sharing) [![video](https://img.shields.io/badge/License-MIT-yellow?style=flat)](/LICENSE)
+<h1>SkeletonAgent: An Agentic Interaction Framework for Skeleton-based Action Recognition</h1>
 
-This is the official PyTorch implementation for "[SkeletonAgent: An Agentic Interaction Framework for Skeleton-based Action Recognition]()".
+[Hongda Liu](https://firework8.github.io/)<sup>1,2</sup>, [Yunfan Liu](https://yunfan0621.github.io/)<sup>2*</sup>, [Changlu Wang](https://github.com/cupscc)<sup>1,2</sup>, [Yunlong Wang](https://wylcasia.github.io/)<sup>1</sup>, and [Zhenan Sun](http://www.cbsr.ia.ac.cn/users/znsun/)<sup>1*</sup>  
+
+<sup>1</sup> NLPR, Institute of Automation, Chinese Academy of Sciences  
+<sup>2</sup> University of Chinese Academy of Sciences  
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/arXiv-Paper-red.svg?logo=arxiv">](https://arxiv.org/abs/2511.22433)
+[<img src="https://img.shields.io/badge/Google%20Drive-Model-blue?logo=google-drive">](https://drive.google.com/drive/folders/1CFMuBrJGktxHfv2GeX8bbgnDuINVrC08?usp=sharing)
+[<img src="https://img.shields.io/badge/License-MIT-yellow?logo=open-source-initiative&logoColor=white">](/LICENSE)
+
+</div>
+
+**This repository is the official PyTorch implementation of the paper "SkeletonAgent: An Agentic Interaction Framework for Skeleton-based Action Recognition".**
+
+</div>
 
 ### Abstract
 > Recent advances in skeleton-based action recognition increasingly leverage semantic priors from Large Language Models (LLMs) to enrich skeletal representations. However, the LLM is typically queried in isolation from the recognition model and receives no performance feedback. As a result, it often fails to deliver the targeted discriminative cues critical to distinguish similar actions. To overcome these limitations, we propose SkeletonAgent, a novel framework that bridges the recognition model and the LLM through two cooperative agents, i.e., Questioner and Selector. Specifically, the Questioner identifies the most frequently confused classes and supplies them to the LLM as context for more targeted guidance. Conversely, the Selector parses the LLM’s response to extract precise joint-level constraints and feeds them back to the recognizer, enabling finer-grained cross-modal alignment. Comprehensive evaluations on five benchmarks, including NTU RGB+D, NTU RGB+D 120, Kinetics-Skeleton, FineGYM, and UAV-Human, demonstrate that SkeletonAgent consistently outperforms state-of-the-art benchmark methods.
