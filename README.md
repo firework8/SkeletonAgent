@@ -11,7 +11,8 @@
 
 [<img src="https://img.shields.io/badge/arXiv-Paper-red.svg?logo=arxiv">](https://arxiv.org/abs/2511.22433)
 [<img src="https://img.shields.io/badge/Google%20Drive-Model-blue?logo=google-drive">](https://drive.google.com/drive/folders/1CFMuBrJGktxHfv2GeX8bbgnDuINVrC08?usp=sharing)
-[<img src="https://img.shields.io/badge/License-MIT-yellow?logo=open-source-initiative&logoColor=white">](/LICENSE)
+[<img src="https://img.shields.io/badge/Hugging%20Face-Page-yellow.svg?logo=huggingface">](https://huggingface.co/firework8/SkeletonAgent)
+[<img src="https://img.shields.io/badge/License-MIT-B762C1?logo=open-source-initiative&logoColor=white">](/LICENSE)
 
 </div>
 
@@ -85,6 +86,19 @@ For the detailed performance of pretrained models, please go to the [Model Doc](
 This repo is mainly based on [PYSKL](https://github.com/kennymckormick/pyskl). We also refer to [CTR-GCN](https://github.com/Uason-Chen/CTR-GCN), [LA-GCN](https://github.com/damnull/lagcn), and [GAP](https://github.com/MartinXM/GAP).
 
 Thanks to the original authors for their excellent work!
+
+## :books: Citation
+
+If you find SkeletonAgent useful in your research, please consider citing our paper:
+
+```
+@article{liu2025skeletonagent,
+  title={SkeletonAgent: An Agentic Interaction Framework for Skeleton-based Action Recognition},
+  author={Liu, Hongda and Liu, Yunfan and Wang, Changlu and Wang, Yunlong and Sun, Zhenan},
+  journal={arXiv preprint arXiv:2511.22433},
+  year={2025}
+}
+```
 
 ## :e-mail: Contact
 
