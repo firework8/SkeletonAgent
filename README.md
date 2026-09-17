@@ -16,6 +16,13 @@
 
 </div>
 
+[![Papers with Code: SOTA on NTU RGB+D 60 Cross-Subject](https://paperswithcode.co/api/v1/papers/2511.22433/leaderboard-badge.svg?eval=16891&live=1)](https://paperswithcode.co/api/v1/papers/2511.22433/leaderboard-badge-link?eval=16891)
+[![Papers with Code: SOTA on NTU RGB+D 60 Cross-View](https://paperswithcode.co/api/v1/papers/2511.22433/leaderboard-badge.svg?eval=16892&live=1)](https://paperswithcode.co/api/v1/papers/2511.22433/leaderboard-badge-link?eval=16892)
+[![Papers with Code: SOTA on NTU RGB+D 120 Cross-Subject](https://paperswithcode.co/api/v1/papers/2511.22433/leaderboard-badge.svg?eval=16893&live=1)](https://paperswithcode.co/api/v1/papers/2511.22433/leaderboard-badge-link?eval=16893)
+[![Papers with Code: SOTA on NTU RGB+D 120 Cross-Setup](https://paperswithcode.co/api/v1/papers/2511.22433/leaderboard-badge.svg?eval=16894&live=1)](https://paperswithcode.co/api/v1/papers/2511.22433/leaderboard-badge-link?eval=16894)
+[![Papers with Code: SOTA on FineGym Gym99](https://paperswithcode.co/api/v1/papers/2511.22433/leaderboard-badge.svg?eval=16896&live=1)](https://paperswithcode.co/api/v1/papers/2511.22433/leaderboard-badge-link?eval=16896)
+[![Papers with Code: SOTA on Kinetics-Skeleton](https://paperswithcode.co/api/v1/papers/2511.22433/leaderboard-badge.svg?eval=16895&live=1)](https://paperswithcode.co/api/v1/papers/2511.22433/leaderboard-badge-link?eval=16895)
+
 **This repository is the official PyTorch implementation of the paper "SkeletonAgent: An Agentic Interaction Framework for Skeleton-based Action Recognition".**
 
 </div>
